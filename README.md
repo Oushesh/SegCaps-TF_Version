@@ -1,6 +1,6 @@
 # tf-SegCaps
 TensorFlow implementation of SegCaps [1] <br/>
-I'm now testing this implementation with ISBI2012. (in progress) <br/>
+I'm now testing this implementation with MSCOCO Dataset <br/>
 
 ![model_figure](assets/segcaps_model_figure.png)
 
