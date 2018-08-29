@@ -5,7 +5,7 @@ I'm now testing this implementation with MSCOCO Dataset <br/>
 ![model_figure](assets/segcaps_model_figure.png)
 
 ### Requirements
-- python 2.7
+- python 3.6 (though works both on python 3.6 and 2.7)
 - Tensorflow >= 1.4
 - numpy
 - scipy
