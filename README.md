@@ -26,7 +26,7 @@ Options
 - deployment: ```python deploy.py --device 0 --mask True --mask_inv True```
 
 ### Result
-- ISBI 2012 dataset
+- Custom Dataset in this case MSCOCO Dataset used
 
 ![training_curve](assets/training_curve.png) <br/>
 ![example_test](assets/test_01.png)
@@ -38,3 +38,4 @@ Options
 
 ### Authors
 Inwan Yoo / iwyoo@lunit.io
+modifications: Oushesh Haradhun oushesh@gmail.com
